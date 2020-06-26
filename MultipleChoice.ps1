@@ -1,4 +1,4 @@
-$fruit = null
+$fruit = $null
 function Main-Menu {
 do {
     cls

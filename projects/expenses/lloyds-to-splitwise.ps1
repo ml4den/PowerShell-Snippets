@@ -1,6 +1,6 @@
 #region README
 # 
-# Set 'SPLITWISE_API_KEY' and 'group_id' below, run the script and browse to a Lloyds statement CSV export.
+# Set 'SPLITWISE_API_KEY', 'group_id' and the relevant transaction descriptions below. Then run the script and browse to a Lloyds statement CSV export to upload the expenses to Splitwise.
 #
 #endregion README
 
